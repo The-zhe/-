@@ -1,0 +1,50 @@
+@charset "utf-8";
+li {
+  list-style: none;
+}
+a {
+  text-decoration: none;
+}
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+form,
+input,
+fieldset,
+legend,
+select,
+ul,
+ol,
+dl,
+dt,
+dd,
+header,
+footer,
+section,
+button,
+body {
+  margin: 0;
+  padding: 0;
+}
+body {
+  font: 16px "微软雅黑";
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+i,
+strong,
+em,
+b,
+sub,
+sup {
+  font-style: normal;
+  font-weight: normal;
+}
